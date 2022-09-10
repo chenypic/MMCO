@@ -11,3 +11,10 @@ Multi-modal Coss-omics Deep Learning for Pan-cancer Analysis
 2. Lee, Yongju, et al. "Derivation of prognostic contextual histopathological features from whole-slide images of tumours via graph deep learning." **Nature Biomedical Engineering** (2022): 1-15. [[paper]](https://www.nature.com/articles/s41551-022-00923-0), [[code]](https://github.com/taliq/TEA-graph)
 
     充分挖掘了病理上下文肿瘤微环境。
+
+
+## 基因
+
+1. Leng, Dongjin, et al. "A benchmark study of deep learning-based multi-omics data fusion methods for cancer." Genome biology 23.1 (2022): 1-32. [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02739-2), [[code]](https://github.com/zhenglinyi/DL-mo)
+
+    对多组学数据融合方法进行了系统性的研究和对比。
