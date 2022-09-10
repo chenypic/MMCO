@@ -15,6 +15,10 @@ Multi-modal Coss-omics Deep Learning for Pan-cancer Analysis
 
 ## 基因
 
-1. Leng, Dongjin, et al. "A benchmark study of deep learning-based multi-omics data fusion methods for cancer." Genome biology 23.1 (2022): 1-32. [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02739-2), [[code]](https://github.com/zhenglinyi/DL-mo)
+1. Leng, Dongjin, et al. "A benchmark study of deep learning-based multi-omics data fusion methods for cancer." **Genome biology** 23.1 (2022): 1-32. [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02739-2), [[code]](https://github.com/zhenglinyi/DL-mo)
 
     对多组学数据融合方法进行了系统性的研究和对比。
+
+## 多模态
+
+1. Schneider, Lucas, et al. "Integration of deep learning-based image analysis and genomic data in cancer pathology: A systematic review." **European Journal of Cancer** 160 (2022): 80-91. [[paper]](https://www.sciencedirect.com/science/article/pii/S0959804921011606)
