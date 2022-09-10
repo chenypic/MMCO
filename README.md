@@ -2,6 +2,8 @@
 
 Multi-modal Coss-omics Deep Learning for Pan-cancer Analysis
 
+用于泛癌分析的多模态跨组学的统一的深度学习框架，持续更新中。并对最新相关文章进行汇总。
+
 ## 病理
 
 1. Laleh, Narmin Ghaffari, et al. "Benchmarking weakly-supervised deep learning pipelines for whole slide classification in computational pathology." **Medical image analysis** 79 (2022): 102474. [[code]](https://github.com/KatherLab/HIA), [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841522001219)
