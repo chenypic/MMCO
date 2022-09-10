@@ -28,3 +28,5 @@ Multi-modal Coss-omics Deep Learning for Pan-cancer Analysis
 ### 多模态
 
 1. Schneider, Lucas, et al. "Integration of deep learning-based image analysis and genomic data in cancer pathology: A systematic review." **European Journal of Cancer** 160 (2022): 80-91. [[paper]](https://www.sciencedirect.com/science/article/pii/S0959804921011606)
+
+2. Zheng, Shuai, et al. "Multi-modal Graph Learning for Disease Prediction." IEEE Transactions on Medical Imaging (2022). [[paper]](https://ieeexplore.ieee.org/abstract/document/9733917/), [[code]](https://github.com/SsGood/MMGL)
