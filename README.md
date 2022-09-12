@@ -18,6 +18,8 @@ Multi-modal Coss-omics Deep Learning for Pan-cancer Analysis
 
     充分挖掘了病理上下文肿瘤微环境。
 
+3. Li, Xintong, et al. "A comprehensive review of computer-aided whole-slide image analysis: from datasets to feature extraction, segmentation, classification and detection approaches." **Artificial Intelligence Review** (2022): 1-70. [[paper]](https://link.springer.com/article/10.1007/s10462-021-10121-0)
+
 
 ### 基因
 
