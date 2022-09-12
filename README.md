@@ -20,6 +20,10 @@ Multi-modal Coss-omics Deep Learning for Pan-cancer Analysis
 
 3. Li, Xintong, et al. "A comprehensive review of computer-aided whole-slide image analysis: from datasets to feature extraction, segmentation, classification and detection approaches." **Artificial Intelligence Review** (2022): 1-70. [[paper]](https://link.springer.com/article/10.1007/s10462-021-10121-0)
 
+4. Wang, Xiyue, et al. "Transformer-based unsupervised contrastive learning for histopathological image classification." Medical Image Analysis 81 (2022): 102559. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841522002043), [[code]](https://github.com/Xiyue-Wang/TransPath)
+
+    用于组织病理学图像的基于 Transformer 的无监督特征提取器。
+
 
 ### 基因
 
